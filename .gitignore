@@ -2,3 +2,7 @@
 server.crt
 server.key
 board.db
+server/server
+server/.DS_Store
+client/client
+client/.DS_Store
