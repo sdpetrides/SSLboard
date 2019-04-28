@@ -10,7 +10,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/SleightOfHandzy/SSLboard/pb"
+	"github.com/sdpetrides/fleet/pb"
 	"github.com/boltdb/bolt"
 	"google.golang.org/grpc"
 )

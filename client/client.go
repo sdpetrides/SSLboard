@@ -15,7 +15,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/SleightOfHandzy/SSLboard/pb"
+	"github.com/sdpetrides/fleet/pb"
 	"golang.org/x/crypto/ssh/terminal"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
